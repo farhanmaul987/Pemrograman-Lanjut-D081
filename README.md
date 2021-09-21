@@ -1,6 +1,8 @@
 ## BIODATA
 
-- M. Farhan Maulana
+M. Farhan Maulana
+20081010159
+D081
 
 ##
 
