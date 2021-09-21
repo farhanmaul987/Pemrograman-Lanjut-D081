@@ -1,4 +1,7 @@
-<b> NAMA: </b "M. Farhan Maulana"
+## BIODATA
+
+#### - NAMA:
+M. Farhan Maulana
 
 ### PROGRAM LANGUAGE
 ___
