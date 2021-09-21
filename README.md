@@ -1,7 +1,8 @@
 ## BIODATA
 
-#### - NAMA:
-M. Farhan Maulana
+- M. Farhan Maulana
+
+##
 
 ### PROGRAM LANGUAGE
 ___
