@@ -17,5 +17,6 @@ int main()
 	printf("Masukkan Pangkat dari Angka: ");
 	scanf("%i", &b);
 	printf("Hasil Rekursif: %i\n", rekur(a,b));
+	
 	return 0;
 }
