@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-int rekur(int a, int b){
-	if (b == 0){
+int rekur(int a, int b)
+{
+	if (b == 0) {
 		return 1;
-	}else
-  {
+	} else {
 		return a * rekur(a,(b-1));
 	}
 }
