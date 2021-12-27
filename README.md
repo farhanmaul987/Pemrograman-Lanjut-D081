@@ -1,11 +1,12 @@
-## BIODATA
+#### 🔰 BIODATA
 
-##### M. Farhan Maulana
-##### 20081010159
-##### D081
+NAMA: M. Farhan Maulana
 
-##
+NPM: 20081010159
 
-### PROGRAM LANGUAGE
+KELAS: D081
+
 ___
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aranaywa&count_private=true&show_icons=true&theme=radical)
+
+#### 🔰 PROGRAM LANGUAGE
+![Farhan's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aranaywa&show_icons=true&theme=radical)
