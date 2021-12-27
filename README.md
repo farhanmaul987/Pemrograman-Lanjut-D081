@@ -9,4 +9,4 @@ KELAS: D081
 ___
 
 #### 🔰 PROGRAM LANGUAGE
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aranaywa&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aranaywa&theme=midnight-purple)
